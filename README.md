@@ -1,2 +1,2 @@
 # documents
-Passmore curated documents
+Passmore curated documents.
